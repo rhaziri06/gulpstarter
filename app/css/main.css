@@ -15,3 +15,7 @@ body {
 	font-size: 20px;
 	text-transform: uppercase;
 }
+#header p {
+	color: #000000;
+	background-color: red;
+}
